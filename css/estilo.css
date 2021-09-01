@@ -1,0 +1,84 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body{
+	background-color: #d63031;
+}
+
+main{
+	width: 90%;
+	height: 768px;
+	background-color: #e17055;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+header{
+	width: 100%;
+	height: 150px;
+	background-color: #ffeaa7;
+}
+
+nav{
+	width: 100%;
+	height: 50px;
+	background-color: #55efc4;
+}
+
+section{
+	width: 100%;
+	height: 500px;
+	background-color: #74b9ff;
+}
+
+footer{
+	width: 100%;
+	height: 68px;
+	background-color: #a29bfe;
+}
+
+#articulo1{
+	width: 40%;
+	height: 500px;
+	background-color: #b2bec3;
+	float: left;
+}
+
+#articulo2{
+	width: 60%;
+	height: 500px;
+	background-color: #e84393;
+	float: right;
+}
+
+#button {
+ padding: 0;
+ }
+
+ #button li {
+ display: inline;
+ }
+
+
+ #button li a {
+ font-family: Arial;
+ font-size: 11px;
+ text-decoration: none;
+ float: left;
+ padding: 10px;
+ background-color: #2175bc;
+ color: #fff;
+ }
+
+ #button li a:hover {
+ background-color: #2586d7;
+ margin-top: -2;
+ padding-bottom: 12px;]
+ }
+
+
+
